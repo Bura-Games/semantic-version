@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[622],{7636:e=>{e.exports=JSON.parse('[{"type":"link","href":"/api/SemanticVersion","label":"\u200bSemantic\u200bVersion"}]')}}]);
