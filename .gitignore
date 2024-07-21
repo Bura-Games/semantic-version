@@ -6,3 +6,5 @@
 sourcemap.json
 
 *.code-workspace
+
+build
