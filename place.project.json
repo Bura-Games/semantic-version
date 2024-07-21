@@ -1,0 +1,15 @@
+{
+	"name": "semantic-version",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"$ignoreUnknownInstances": true,
+			"Packages": {
+				"$ignoreUnknownInstances": true,
+				"$path": "Packages",
+				"SemanticVersion": {"$path": "./default.project.json"}
+			}
+		}
+	}
+}

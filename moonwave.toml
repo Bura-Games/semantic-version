@@ -1,0 +1,10 @@
+classOrder = ["SemanticVersion"]
+changelog = false
+gitSourceBranch = "main"
+
+[docusaurus]
+tagline = "An immutable class for Semantic Versioning"
+
+[home]
+enabled = true
+includeReadme = false
